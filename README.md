@@ -15,16 +15,16 @@
 
 **Power BI**
 
-            [Madhav Store](https://github.com/ubaidzia1086/Madhav_Store_PowerBI)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Madhav Store](https://github.com/ubaidzia1086/Madhav_Store_PowerBI)
 
-            [HR Analytics](https://github.com/ubaidzia1086/HR_Analytics_PowerBI)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[HR Analytics](https://github.com/ubaidzia1086/HR_Analytics_PowerBI)
 
-            [Hospitality Project](https://github.com/ubaidzia1086/Hospitality_Project_Powerbi)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hospitality Project](https://github.com/ubaidzia1086/Hospitality_Project_Powerbi)
 
 
 **SQL**
 
-            [SQL Danny's Diner](https://github.com/ubaidzia1086/SQL_Dannys_Dinner)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL Danny's Diner](https://github.com/ubaidzia1086/SQL_Dannys_Dinner)
 
 🤝 Open to Collaboration
 📧 Reach me at: ubaid_zia14@yahoo.com
