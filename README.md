@@ -1,3 +1,15 @@
+![Cisco certificate](https://github.com/ubaidzia1086/My_Intro/blob/main/Cisco%20certificate.jpg?raw=true)
+
+![Ciso verified certificate](https://github.com/ubaidzia1086/My_Intro/blob/main/Ciso%20verified%20certificate.jpg?raw=true)
+
+![Excel certificate](https://github.com/ubaidzia1086/My_Intro/blob/main/Excel%20certificate.jpg?raw=true)
+
+![Power BI certificate](https://github.com/ubaidzia1086/My_Intro/blob/main/Power%20BI%20certificate.jpg?raw=true)
+
+![SQL certificate_page](https://github.com/ubaidzia1086/My_Intro/blob/main/SQL%20certificate_page.jpg?raw=true)
+
+![Udemy python certificate](https://github.com/ubaidzia1086/My_Intro/blob/main/Udemy%20python%20certificate.jpg?raw=true)
+
 👋 Hello, I'm Ubaid Zia
 
 **🚀 About Me**
