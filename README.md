@@ -2,6 +2,8 @@
 
 ![Ciso verified certificate](https://github.com/ubaidzia1086/My_Intro/blob/main/Ciso%20verified%20certificate.jpg?raw=true)
 
+![Python for Beginners](https://github.com/ubaidzia1086/My_Intro/blob/main/Python%20for%20Beginners.jpg?raw=true)
+
 ![Excel certificate](https://github.com/ubaidzia1086/My_Intro/blob/main/Excel%20certificate.jpg?raw=true)
 
 ![Power BI certificate](https://github.com/ubaidzia1086/My_Intro/blob/main/Power%20BI%20certificate.jpg?raw=true)
